@@ -10,14 +10,14 @@ This project uses the Hipolabs University API - GET http://universities.hipolabs
 
 ## 🙌 Acknowledgements
 
-Apna College — For the Delta course and this assignment 💙
-Hipolabs API — For the free university data API
+1) Apna College — For the Delta course and this assignment 💙
+2) Hipolabs API — For the free university data API
 
 ## ✨ Features
 
-🔍 Search universities by state name in India
-🌐 Fetches live data using REST API
-📋 Displays university name, state.
+1) 🔍 Search universities by state name in India
+2) 🌐 Fetches live data using REST API
+3) 📋 Displays university name, state.
 
 ## 🙋‍♂️ Author
 Ashlesha Meshram
